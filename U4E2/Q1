@@ -1,0 +1,24 @@
+IS-A RelationShip: can access by creating an object in extended class(i.e child class). 
+it is used for code re-usability in java.
+
+for example:
+a potato is vegetable, a Bus is a vehicle, a bulb is a electronic device etc.
+
+Has-A relationship is also known as composition. it is used for code re-usability in java.
+
+for example:
+a car has a engine, a dog has a tail and so on.
+
+
+
+Access modifiers:
+
+Access Modifiers helps to restrict the scope of a class, constructor, variable, method 
+or a data member.
+
+there are four access modifier available in java:
+
+1: Default (accessible only within the same package)
+2: Private (accessible only within same class)
+3: Protected (accessible only within same package or subclass in different package)
+4: Public (accessible from everywhere)
